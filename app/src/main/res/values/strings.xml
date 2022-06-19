@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JWLab06b</string>
+    <string name="error_msg">Error: Not all puzzles completed!</string>
+    <string-array name="poem_pics">
+        <item>clouds</item>
+        <item>rain</item>
+        <item>world</item>
+        <item>birds</item>
+        <item>flowers</item>
+        <item>sunrise</item>
+    </string-array>
+</resources>
